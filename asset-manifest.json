@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Prinitify/static/css/main.ce3c4b93.css",
+    "main.js": "/Prinitify/static/js/main.1fa6ed50.js",
+    "static/js/453.c991005d.chunk.js": "/Prinitify/static/js/453.c991005d.chunk.js",
+    "static/media/Gemini_Generated_Image_ppuk8jppuk8jppuk.jpeg": "/Prinitify/static/media/Gemini_Generated_Image_ppuk8jppuk8jppuk.13f64b61925055d475a4.jpeg",
+    "static/media/best-selection.svg": "/Prinitify/static/media/best-selection.5e0c702c103cca0bf2b21fc00ee04f83.svg",
+    "static/media/2808334.jpg": "/Prinitify/static/media/2808334.b0eac93377f52f145d4d.jpg",
+    "static/media/custom-products.png": "/Prinitify/static/media/custom-products.58a844d4da27c3fb5473.png",
+    "static/media/your-products.png": "/Prinitify/static/media/your-products.c968b2575af6cfb1c16a.png",
+    "static/media/7176410_3572690.svg": "/Prinitify/static/media/7176410_3572690.103357144a4dd0054f7deb1777d1b49b.svg",
+    "static/media/fullfillment.png": "/Prinitify/static/media/fullfillment.d1752d69e7caf9e0f7b8.png",
+    "static/media/higher-profits.svg": "/Prinitify/static/media/higher-profits.66cf794c780510108dca250a71a352da.svg",
+    "static/media/robust-scaling.svg": "/Prinitify/static/media/robust-scaling.4e35109270ac1ada07b2f2146c768776.svg",
+    "static/media/reddit.svg": "/Prinitify/static/media/reddit.e2ac9ee76b0a2e59b621925ce3294e5e.svg",
+    "static/media/insta.svg": "/Prinitify/static/media/insta.1b22a299a3bcf6848005d814816dc235.svg",
+    "static/media/Youtube.svg": "/Prinitify/static/media/Youtube.977fb7a5642a818dd158e67619d89e8e.svg",
+    "static/media/facebook.svg": "/Prinitify/static/media/facebook.2526ea5b651c962b6220da92850dbe29.svg",
+    "static/media/Linkedin.svg": "/Prinitify/static/media/Linkedin.2592bc703960d259f5fbee5f729dcb98.svg",
+    "index.html": "/Prinitify/index.html",
+    "static/media/Tickmark.svg": "/Prinitify/static/media/Tickmark.a39680c483e6421222bb5b93abbc6728.svg",
+    "main.ce3c4b93.css.map": "/Prinitify/static/css/main.ce3c4b93.css.map",
+    "main.1fa6ed50.js.map": "/Prinitify/static/js/main.1fa6ed50.js.map",
+    "453.c991005d.chunk.js.map": "/Prinitify/static/js/453.c991005d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce3c4b93.css",
+    "static/js/main.1fa6ed50.js"
+  ]
+}
